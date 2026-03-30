@@ -1,0 +1,26 @@
+:root {
+  /* === Couleurs — thème MCP (dark, monochrome) === */
+  --theme-primary: #dedede;
+  --theme-primary-light: #f3f3f3;
+  --theme-accent: #9e9e9e;
+  --theme-text: #dedede;
+  --theme-text-light: #9e9e9e;
+  --theme-bg: #0e0e10;
+  --theme-breadcrumb-bg: #1a1a1e;
+  --theme-breadcrumb-border: #2a2a2e;
+
+  /* === Typographie === */
+  --theme-font-title: 'Inter', sans-serif;
+  --theme-font-body: 'Inter', sans-serif;
+
+  /* === Espacement === */
+  --theme-slide-padding: 2.5rem;
+
+  /* === Cover overlay === */
+  --theme-cover-overlay: rgba(0, 0, 0, 0.6);
+  --theme-cover-text: #ffffff;
+
+  /* === Séparateur === */
+  --theme-separator-width: 4rem;
+  --theme-separator-thickness: 3px;
+}
